@@ -12,6 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+// A library for reading the Twitter configuration files written by Twurl.
 package twurlrc
 
 import (
